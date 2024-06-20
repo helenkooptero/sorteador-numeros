@@ -14,7 +14,7 @@ O projeto consiste em um simples sorteador de números, onde o usuário pode:
 
 **Como Executar:**
 
-* **Acesso ao jogo:** [Acesse o projeto aqui](https://helenkooptero.github.io/sorteador-numeros/)
+* **Acesso ao jogo:** [Acesse o projeto aqui](https://github.com/helenkooptero/sorteador-numeros)
 * Insira a quantidade de números desejada, o número mínimo e máximo.
 * Clique em "Sortear" para gerar os números aleatórios.
 
